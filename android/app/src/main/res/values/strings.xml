@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="account_type">com.dheeraj.sf.login</string>
-	<string name="app_name">SFLogin</string>
-	<string name="app_package">com.dheeraj.sf</string>
+    <string name="account_type">com.sfloginrn.login</string>
+	<string name="app_name">SFLoginRN</string>
+	<string name="app_package">com.sfloginrn</string>
 </resources>

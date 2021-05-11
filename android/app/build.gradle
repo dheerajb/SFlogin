@@ -104,7 +104,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.dheeraj.sf"
+        applicationId "com.sfloginrn"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
